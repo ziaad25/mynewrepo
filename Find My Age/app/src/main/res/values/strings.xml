@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Your Age</string>
+    <string name="bu_age">Get Age</string>
+    <string name="ON">ON</string>
+    <string name="OFF">OFF</string>
+</resources>
